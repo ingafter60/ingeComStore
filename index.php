@@ -242,6 +242,24 @@
 	</div>
 	<!-- advantages Ends -->
 
+	<!-- hot Starts -->
+	<div id="hot">
+		<!-- box Starts -->
+      <div class="box">
+         <!-- container Starts -->
+         <div class="container">
+            <!-- col-md-12 Starts -->
+            <div class="col-md-12">
+               <h2>Latest this week</h2>
+            </div>
+            <!-- col-md-12 Ends -->
+         </div>
+         <!-- container Ends -->
+      </div>
+      <!-- box Ends -->
+   </div>
+	<!-- hot Starts -->
+
 	<script src="js/jquery.min.js"> </script>
 	<script src="js/bootstrap.min.js"></script>
 </body>

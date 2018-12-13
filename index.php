@@ -581,6 +581,27 @@
 	</div>
 	<!-- FOOTER ENDS -->
 
+	<!-- COPYRIGHT STARTS -->
+	<div id="copyright">
+   	<!-- container Starts -->
+	   <div class="container">
+	      <!-- col-md-6 Starts -->
+	      <div class="col-md-6">
+	         <p class="pull-left"> © 2016 Mohammed Tahir Ahmed </p>
+	      </div>
+	      <!-- col-md-6 Ends -->
+	      <!-- col-md-6 Starts -->
+	      <div class="col-md-6">
+	         <p class="pull-right">
+	            Template by <a href="http://www.computerfever.com">Computerfever.com</a>
+	         </p>
+	      </div>
+	      <!-- col-md-6 Ends -->
+	   </div>
+	   <!-- container Ends -->
+	</div>
+	<!-- COPYRIGHT ENDS -->
+
 	<script src="js/jquery.min.js"> </script>
 	<script src="js/bootstrap.min.js"></script>
 </body>

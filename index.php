@@ -139,7 +139,7 @@
    </div>
    <!-- navbar navbar-default Ends -->
 
-	<!-- container Starts -->
+	<!-- slider container Starts -->
 	<div class="container" id="slider">
 		<!-- col-md-12 Starts -->
 		<div class="col-md-12">
@@ -188,7 +188,59 @@
 		</div>
 		<!-- col-md-12 Ends -->
 	</div>
-	<!-- container Ends -->
+	<!-- slider container Ends -->
+
+	<!-- advantages Starts -->
+	<div id="advantages">
+		<!-- container Starts -->
+		<div class="container">
+			<!-- same-height-row Starts -->
+			<div class="same-height-row">
+				<!-- col-sm-4 Starts -->
+				<div class="col-sm-4">
+					<!-- box same-height Starts -->
+					<div class="box same-height">
+						<div class="icon">
+							<i class="fa fa-heart" ></i>
+						</div>
+						<h3><a href="#"> BEST PRICES </a></h3>
+						<p>You can check on all others sites about the prices and than compare with us.</p>
+					</div>
+					<!-- box same-height Ends -->
+				</div>
+				<!-- col-sm-4 Ends -->
+				<div class="col-sm-4">
+					<!-- col-sm-4 Starts -->
+					<div class="box same-height">
+						<!-- box same-height Starts -->
+						<div class="icon">
+							<i class="fa fa-heart" ></i>
+						</div>
+						<h3><a href="#"> 100% SATISFACTION GUARANTEED From Us </a></h3>
+						<p>Free returns on everything for 3 months.</p>
+					</div>
+					<!-- box same-height Ends -->
+				</div>
+				<!-- col-sm-4 Ends -->
+				<div class="col-sm-4">
+					<!-- col-sm-4 Starts -->
+					<div class="box same-height">
+						<!-- box same-height Starts -->
+						<div class="icon">
+							<i class="fa fa-heart" ></i>
+						</div>
+						<h3><a href="#"> WE LOVE OUR CUSTOMERS </a></h3>
+						<p>We are known to provide best possible service ever</p>
+					</div>
+					<!-- box same-height Ends -->
+				</div>
+				<!-- col-sm-4 Ends -->
+			</div>
+			<!-- same-height-row Ends -->
+		</div>
+		<!-- container Ends -->
+	</div>
+	<!-- advantages Ends -->
 
 	<script src="js/jquery.min.js"> </script>
 	<script src="js/bootstrap.min.js"></script>

@@ -260,6 +260,215 @@
    </div>
 	<!-- hot Starts -->
 
+	<!-- container Starts -->
+	<div id="content" class="container">
+	   <!-- row Starts -->
+	   <div class="row flex-wrap">
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="digital-premium-softwares-bundle">
+	            <img src="admin_area/product_images/digital-bundle-1.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Joy Peng </p>
+	               </center>
+	               <hr>
+	               <h3><a href="digital-premium-softwares-bundle"> Digital Premium Softwares Bundle</a></h3>
+	               <p class="price"> $150  </p>
+	               <p class="buttons">
+	                  <a href="digital-premium-softwares-bundle" class="btn btn-default">View details</a>
+	                  <a href="digital-premium-softwares-bundle" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Bundle</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="adobe-photoshop-cc-2018">
+	            <img src="admin_area/product_images/photoshop-cc.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Joy Peng </p>
+	               </center>
+	               <hr>
+	               <h3><a href="adobe-photoshop-cc-2018">Adobe Photoshop CC 2018 | 12 Month Subscription (Download)</a></h3>
+	               <p class="price"> $129  </p>
+	               <p class="buttons">
+	                  <a href="adobe-photoshop-cc-2018" class="btn btn-default">View details</a>
+	                  <a href="adobe-photoshop-cc-2018" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Software</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="corel-video-studio-ultimate-x10">
+	            <img src="admin_area/product_images/corel video-1.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Joy Peng </p>
+	               </center>
+	               <hr>
+	               <h3><a href="corel-video-studio-ultimate-x10">Corel VideoStudio Ultimate X10</a></h3>
+	               <p class="price"> $79  </p>
+	               <p class="buttons">
+	                  <a href="corel-video-studio-ultimate-x10" class="btn btn-default">View details</a>
+	                  <a href="corel-video-studio-ultimate-x10" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Software</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="microsoft-office-professional-2016">
+	            <img src="admin_area/product_images/microsft-office.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Amir Khan </p>
+	               </center>
+	               <hr>
+	               <h3><a href="microsoft-office-professional-2016">Microsoft Office Professional 2016 Download</a></h3>
+	               <p class="price"> $130  </p>
+	               <p class="buttons">
+	                  <a href="microsoft-office-professional-2016" class="btn btn-default">View details</a>
+	                  <a href="microsoft-office-professional-2016" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Software</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href=" avast-internet-security">
+	            <img src="admin_area/product_images/avast-1.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Kane Bender </p>
+	               </center>
+	               <hr>
+	               <h3><a href=" avast-internet-security">Avast Internet Security 2018 (1 PC, 1 Year) [Download]</a></h3>
+	               <p class="price"> $59  </p>
+	               <p class="buttons">
+	                  <a href=" avast-internet-security" class="btn btn-default">View details</a>
+	                  <a href=" avast-internet-security" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Software</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="jacket-bundle">
+	            <img src="admin_area/product_images/jacket-1.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Kane Bender </p>
+	               </center>
+	               <hr>
+	               <h3><a href="jacket-bundle">Solid Navy Denim Jackets Bundle</a></h3>
+	               <p class="price"> <del> $300 </del> | $200 </p>
+	               <p class="buttons">
+	                  <a href="jacket-bundle" class="btn btn-default">View details</a>
+	                  <a href="jacket-bundle" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Sale</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="product-url-9">
+	            <img src="admin_area/product_images/product-1.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Amir Khan </p>
+	               </center>
+	               <hr>
+	               <h3><a href="product-url-9">Remind Printed T-Shirt</a></h3>
+	               <p class="price"> $50  </p>
+	               <p class="buttons">
+	                  <a href="product-url-9" class="btn btn-default">View details</a>
+	                  <a href="product-url-9" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">New</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	      <div class="col-md-4 col-sm-6 single">
+	         <div class="product">
+	            <a href="product-url-8">
+	            <img src="admin_area/product_images/Black Blouse Versace Coat1.jpg" class="img-responsive">
+	            </a>
+	            <div class="text">
+	               <center>
+	                  <p class="btn btn-primary"> Joy Peng </p>
+	               </center>
+	               <hr>
+	               <h3><a href="product-url-8">Sleeveless Faux Fur Hybrid Coat</a></h3>
+	               <p class="price"> <del> $245 </del> | $100 </p>
+	               <p class="buttons">
+	                  <a href="product-url-8" class="btn btn-default">View details</a>
+	                  <a href="product-url-8" class="btn btn-primary">
+	                  <i class="fa fa-shopping-cart"></i> Add to cart
+	                  </a>
+	               </p>
+	            </div>
+	            <a class="label sale" href="#" style="color:black;">
+	               <div class="thelabel">Gift</div>
+	               <div class="label-background"> </div>
+	            </a>
+	         </div>
+	      </div>
+	   </div>
+	   <!-- row Ends -->
+	</div>
+	<!-- container Starts -->
+	
 	<script src="js/jquery.min.js"> </script>
 	<script src="js/bootstrap.min.js"></script>
 </body>

@@ -139,6 +139,57 @@
    </div>
    <!-- navbar navbar-default Ends -->
 
+	<!-- container Starts -->
+	<div class="container" id="slider">
+		<!-- col-md-12 Starts -->
+		<div class="col-md-12">
+			<!-- carousel slide Starts --->
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+				<!-- carousel-indicators Starts -->
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
+				</ol>
+				<!-- carousel-indicators Ends -->
+
+				<!-- carousel-inner Starts -->
+				<div class="carousel-inner">
+					<div class='item active'>
+						<a href='http://localhost/Ecom_store/shop.php'><img src='admin_area/slides_images/1.jpg'></a>
+					</div>
+					<div class='item'>
+						<a href='htttp://www.computerfever.com/services'><img src='admin_area/slides_images/2.jpg'></a>
+					</div>
+					<div class='item'>
+						<a href='http://urdustories.computerfever.com'><img src='admin_area/slides_images/3.jpg'></a>
+					</div>
+					<div class='item'>
+						<a href='http://www.computerfever.com'><img src='admin_area/slides_images/slide-5.jpg'></a>
+					</div>
+				</div>
+				<!-- carousel-inner Ends -->
+
+				<!-- left carousel-control Starts -->
+				<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+					<span class="glyphicon glyphicon-chevron-left"> </span>
+					<span class="sr-only"> Previous </span>
+				</a>
+				<!-- left carousel-control Ends -->
+				<!-- right carousel-control Starts -->
+				<a class="right carousel-control" href="#myCarousel" data-slide="next">
+					<span class="glyphicon glyphicon-chevron-right"> </span>
+					<span class="sr-only"> Next </span>
+				</a>
+				<!-- right carousel-control Ends -->
+			</div>
+			<!-- carousel slide Ends --->
+		</div>
+		<!-- col-md-12 Ends -->
+	</div>
+	<!-- container Ends -->
+
 	<script src="js/jquery.min.js"> </script>
 	<script src="js/bootstrap.min.js"></script>
 </body>

@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 </head>
 <body>
-	<!-- top Starts -->
+	<!-- TOP STARTS -->
 	<div id="top">
 		<!-- container Starts -->
 		<div class="container">
@@ -44,9 +44,9 @@
 		</div>
 		<!-- container Ends -->
 	</div>
-	<!-- top Ends -->	
+	<!-- TOP ENDS -->	
 
-	<!-- navbar navbar-default Starts -->
+	<!-- NAVBAR STARTS -->
 	<div class="navbar navbar-default" id="navbar">
 		<!-- container Starts -->
       <div class="container" >
@@ -137,9 +137,9 @@
 			<i class="fa fa-search" ></i>
 		</button>
    </div>
-   <!-- navbar navbar-default Ends -->
+   <!-- NAVBAR ENDS -->
 
-	<!-- slider container Starts -->
+	<!-- SLIDER STARTS -->
 	<div class="container" id="slider">
 		<!-- col-md-12 Starts -->
 		<div class="col-md-12">
@@ -188,9 +188,9 @@
 		</div>
 		<!-- col-md-12 Ends -->
 	</div>
-	<!-- slider container Ends -->
+	<!-- SLIDER ENDS -->
 
-	<!-- advantages Starts -->
+	<!-- ADVANTAGES STARTS -->
 	<div id="advantages">
 		<!-- container Starts -->
 		<div class="container">
@@ -240,9 +240,9 @@
 		</div>
 		<!-- container Ends -->
 	</div>
-	<!-- advantages Ends -->
+	<!-- ADVANTAGES ENDS -->
 
-	<!-- hot Starts -->
+	<!-- HOT STARTS -->
 	<div id="hot">
 		<!-- box Starts -->
       <div class="box">
@@ -258,9 +258,9 @@
       </div>
       <!-- box Ends -->
    </div>
-	<!-- hot Starts -->
+	<!-- HOT ENDS -->
 
-	<!-- container Starts -->
+	<!-- PRODUCTS STARTS -->
 	<div id="content" class="container">
 	   <!-- row Starts -->
 	   <div class="row flex-wrap">
@@ -467,8 +467,120 @@
 	   </div>
 	   <!-- row Ends -->
 	</div>
-	<!-- container Starts -->
-	
+	<!-- PRODUCTS ENDS -->
+
+	<!-- FOOTER STARTS -->
+	<div id="footer">
+	   <!-- container Starts -->
+	   <div class="container">
+	      <!-- row Starts -->
+	      <div class="row">
+	         <!-- col-md-3 col-sm-6 Starts -->
+	         <div class="col-md-3 col-sm-6">
+	            
+	            <h4>Pages</h4>
+	            <!-- ul Starts -->
+	            <ul>
+	               <li><a href="cart.php">Shopping Cart</a></li>
+	               <li><a href="contact.php">Contact Us</a></li>
+	               <li><a href="shop.php">Shop</a></li>
+	               <li>
+	                  <a href="checkout.php">My Account</a>               
+	               </li>
+	            </ul>
+	            <!-- ul Ends -->
+	            <hr>
+	            <h4>User Section</h4>
+	            <!-- ul Starts -->
+	            <ul>
+	               <li>
+	                  <a href="checkout.php">Login</a>               
+	               </li>
+	               <li><a href="customer_register.php">Register</a></li>
+	               <li><a href="terms.php">Terms And Conditions </a></li>
+	            </ul>
+	            <!-- ul Ends -->
+	            <hr class="hidden-md hidden-lg hidden-sm">
+	         </div>
+	         <!-- col-md-3 col-sm-6 Ends -->
+
+	         <!-- col-md-3 col-sm-6 Starts -->
+	         <div class="col-md-3 col-sm-6">
+	            <h4> Top Products Categories </h4>
+	            <!-- ul Starts -->
+	            <ul>
+	               <li> <a href="shop.php?p_cat=4"> Coats </a> </li>
+	               <li> <a href="shop.php?p_cat=5"> T-Shirts </a> </li>
+	               <li> <a href="shop.php?p_cat=6"> Sweater </a> </li>
+	               <li> <a href="shop.php?p_cat=7"> jackets </a> </li>
+	               <li> <a href="shop.php?p_cat=8"> Microsoft Windows </a> </li>
+	            </ul>
+	            <!-- ul Ends -->
+	            <hr class="hidden-md hidden-lg">
+	         </div>
+	         <!-- col-md-3 col-sm-6 Ends -->
+
+	         <!-- col-md-3 col-sm-6 Starts -->
+	         <div class="col-md-3 col-sm-6">
+	            <h4>Where to find us</h4>
+	            <!-- p Starts -->
+	            <p>
+	               <strong>Computerfever Ltd.</strong>
+	               <br>Saeed Park
+	               <br>Lahore
+	               <br>0923334566931
+	               <br>sad.ahmed22224@gmail.com
+	               <br>
+	               <strong>Mohammed Tahir Ahmed</strong>
+	            </p>
+	            <!-- p Ends -->
+	            <a href="contact.php">Go to Contact us page</a>
+	            <hr class="hidden-md hidden-lg">
+	         </div>
+	         <!-- col-md-3 col-sm-6 Ends -->
+
+	         <!-- col-md-3 col-sm-6 Starts -->
+	         <div class="col-md-3 col-sm-6">
+	            <h4>Get the news</h4>
+	            <p class="text-muted">
+	               Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+	            </p>
+	            <!-- form Starts -->
+	            <form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=computerfever', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+	               <!-- input-group Starts -->
+	               <div class="input-group">
+	                  <input type="text" class="form-control" name="email">
+	                  <input type="hidden" value="computerfever" name="uri">
+	                  <input type="hidden" name="loc" value="en_US">
+	                  <!-- input-group-btn Starts -->
+	                  <span class="input-group-btn">
+	                     <input type="submit" value="subscribe" class="btn btn-default">
+	                  </span>
+	                  <!-- input-group-btn Ends -->
+	               </div>
+	               <!-- input-group Ends -->
+	            </form>
+	            <!-- form Ends -->
+	            <hr>
+	            <h4> Stay in touch </h4>
+	            <!-- social Starts --->
+	            <p class="social">
+	               <a href="#"><i class="fa fa-facebook"></i></a>
+	               <a href="#"><i class="fa fa-twitter"></i></a>
+	               <a href="#"><i class="fa fa-instagram"></i></a>
+	               <a href="#"><i class="fa fa-google-plus"></i></a>
+	               <a href="#"><i class="fa fa-envelope"></i></a>
+	            </p>
+	            <!-- social Ends --->
+	         </div>
+	         <!-- col-md-3 col-sm-6 Ends -->
+	      </div>
+	      <!-- row Ends -->
+	   </div>
+	   <!-- container Ends -->
+	</div>
+	<!-- FOOTER ENDS -->
+
 	<script src="js/jquery.min.js"> </script>
 	<script src="js/bootstrap.min.js"></script>
 </body>
